@@ -5,24 +5,9 @@
         "played_at":1760817058559
     },
     {
-        "track_name":"Thank God It's Christmas",
-        "artist_name":"Queen",
-        "played_at":1760817058559
-    },
-    {
         "track_name":"Last Christmas",
         "artist_name":"Ariana Grande",
         "played_at":1760818204763
-    },
-    {
-        "track_name":"Last Christmas",
-        "artist_name":"Ariana Grande",
-        "played_at":1760818204763
-    },
-    {
-        "track_name":"What Christmas Means to Me (feat. Stevie Wonder)",
-        "artist_name":"John Legend",
-        "played_at":1760818365713
     },
     {
         "track_name":"What Christmas Means to Me (feat. Stevie Wonder)",
@@ -35,24 +20,9 @@
         "played_at":1760818629609
     },
     {
-        "track_name":"Last Christmas",
-        "artist_name":"Wham!",
-        "played_at":1760818629609
-    },
-    {
         "track_name":"Frosty The Snowman",
         "artist_name":"Ella Fitzgerald",
         "played_at":1760818761305
-    },
-    {
-        "track_name":"Frosty The Snowman",
-        "artist_name":"Ella Fitzgerald",
-        "played_at":1760818761305
-    },
-    {
-        "track_name":"My Only Wish (This Year)",
-        "artist_name":"Britney Spears",
-        "played_at":1760819023806
     },
     {
         "track_name":"My Only Wish (This Year)",
@@ -65,24 +35,9 @@
         "played_at":1760819212956
     },
     {
-        "track_name":"Where Are You Christmas?",
-        "artist_name":"The Pretty Reckless",
-        "played_at":1760819212956
-    },
-    {
         "track_name":"The Prayer",
         "artist_name":"C\u00e9line Dion",
         "played_at":1760819489148
-    },
-    {
-        "track_name":"The Prayer",
-        "artist_name":"C\u00e9line Dion",
-        "played_at":1760819489148
-    },
-    {
-        "track_name":"Santa Baby (with Henri Ren\u00e9 & His Orchestra)",
-        "artist_name":"Eartha Kitt",
-        "played_at":1760819695138
     },
     {
         "track_name":"Santa Baby (with Henri Ren\u00e9 & His Orchestra)",
@@ -95,24 +50,9 @@
         "played_at":1760819876281
     },
     {
-        "track_name":"I Saw Mommy Kissing Santa Claus",
-        "artist_name":"The Jackson 5",
-        "played_at":1760819876281
-    },
-    {
         "track_name":"Mary, Did You Know?",
         "artist_name":"Pentatonix",
         "played_at":1760820081023
-    },
-    {
-        "track_name":"Mary, Did You Know?",
-        "artist_name":"Pentatonix",
-        "played_at":1760820081023
-    },
-    {
-        "track_name":"Blue Christmas",
-        "artist_name":"Elvis Presley",
-        "played_at":1760820211297
     },
     {
         "track_name":"Blue Christmas",
@@ -498,5 +438,65 @@
         "track_name":"Sugar On My Tongue",
         "artist_name":"Tyler, The Creator",
         "played_at":1760857966458
+    },
+    {
+        "track_name":"Die With A Smile",
+        "artist_name":"Lady Gaga",
+        "played_at":1760859998168
+    },
+    {
+        "track_name":"Opalite",
+        "artist_name":"Taylor Swift",
+        "played_at":1760860234465
+    },
+    {
+        "track_name":"Show Me Love",
+        "artist_name":"WizTheMc",
+        "played_at":1760860527334
+    },
+    {
+        "track_name":"Mystical Magical",
+        "artist_name":"Benson Boone",
+        "played_at":1760860693712
+    },
+    {
+        "track_name":"YUKON",
+        "artist_name":"Justin Bieber",
+        "played_at":1760860858487
+    },
+    {
+        "track_name":"No Broke Boys",
+        "artist_name":"Disco Lines",
+        "played_at":1760861051927
+    },
+    {
+        "track_name":"The Subway",
+        "artist_name":"Chappell Roan",
+        "played_at":1760861277323
+    },
+    {
+        "track_name":"Timeless (feat Playboi Carti)",
+        "artist_name":"The Weeknd",
+        "played_at":1760861532805
+    },
+    {
+        "track_name":"DAISIES",
+        "artist_name":"Justin Bieber",
+        "played_at":1760861709053
+    },
+    {
+        "track_name":"The Dead Dance",
+        "artist_name":"Lady Gaga",
+        "played_at":1760861937689
+    },
+    {
+        "track_name":"I Say a Little Prayer",
+        "artist_name":"Aretha Franklin",
+        "played_at":1760867961015
+    },
+    {
+        "track_name":"Knockin' On Heaven's Door",
+        "artist_name":"Bob Dylan",
+        "played_at":1760868078881
     }
 ]
