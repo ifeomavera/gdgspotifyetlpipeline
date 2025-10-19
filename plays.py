@@ -5,7 +5,7 @@ from spotipy.oauth2 import SpotifyOAuth #module for authentication, spotify uses
 
 # Set your credentials all gotten from the spotify developers dashboard.
 client_id = 'e1579079c582472d998f11f720ae99e2'
-client_secret = '5eecc48f72ca4d8fa9baecafb0e3b662'
+client_secret = '7a8703c9467f49b9b62964e3be6e407b'
 redirect_uri = 'http://127.0.0.1:8888/callback'
 
 # Set up Spotify OAuth, for the scope we're only using 'user-read-recently-played', becasue we want to get the songs recently played.

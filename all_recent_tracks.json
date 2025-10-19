@@ -65,24 +65,9 @@
         "played_at":1760820362670
     },
     {
-        "track_name":"Winter Wonderland - Remastered 2006",
-        "artist_name":"Bing Crosby",
-        "played_at":1760820362670
-    },
-    {
         "track_name":"Santa, Can\u2019t You Hear Me",
         "artist_name":"Kelly Clarkson",
         "played_at":1760820618255
-    },
-    {
-        "track_name":"Santa, Can\u2019t You Hear Me",
-        "artist_name":"Kelly Clarkson",
-        "played_at":1760820618255
-    },
-    {
-        "track_name":"White Christmas - 1947 Version",
-        "artist_name":"Bing Crosby",
-        "played_at":1760820810614
     },
     {
         "track_name":"White Christmas - 1947 Version",
@@ -95,24 +80,9 @@
         "played_at":1760820950858
     },
     {
-        "track_name":"Run Rudolph Run",
-        "artist_name":"Chuck Berry",
-        "played_at":1760820950858
-    },
-    {
         "track_name":"Merry Christmas, Happy Holidays",
         "artist_name":"*NSYNC",
         "played_at":1760821206386
-    },
-    {
-        "track_name":"Merry Christmas, Happy Holidays",
-        "artist_name":"*NSYNC",
-        "played_at":1760821206386
-    },
-    {
-        "track_name":"Lonely This Christmas",
-        "artist_name":"Mud",
-        "played_at":1760821420658
     },
     {
         "track_name":"Lonely This Christmas",
@@ -125,24 +95,9 @@
         "played_at":1760821621520
     },
     {
-        "track_name":"Like It's Christmas",
-        "artist_name":"Jonas Brothers",
-        "played_at":1760821621520
-    },
-    {
         "track_name":"Christmas Tree Farm",
         "artist_name":"Taylor Swift",
         "played_at":1760821849654
-    },
-    {
-        "track_name":"Christmas Tree Farm",
-        "artist_name":"Taylor Swift",
-        "played_at":1760821849654
-    },
-    {
-        "track_name":"O Holy Night - Spotify Singles Holiday",
-        "artist_name":"Ravyn Lenae",
-        "played_at":1760822030937
     },
     {
         "track_name":"O Holy Night - Spotify Singles Holiday",
@@ -155,24 +110,9 @@
         "played_at":1760822185324
     },
     {
-        "track_name":"Christmas (Baby Please Come Home)",
-        "artist_name":"Mariah Carey",
-        "played_at":1760822185324
-    },
-    {
         "track_name":"Feliz Navidad",
         "artist_name":"Jos\u00e9 Feliciano",
         "played_at":1760822367324
-    },
-    {
-        "track_name":"Feliz Navidad",
-        "artist_name":"Jos\u00e9 Feliciano",
-        "played_at":1760822367324
-    },
-    {
-        "track_name":"Here Comes Santa Claus (Right Down Santa Claus Lane)",
-        "artist_name":"Elvis Presley",
-        "played_at":1760822484217
     },
     {
         "track_name":"Here Comes Santa Claus (Right Down Santa Claus Lane)",
@@ -185,24 +125,9 @@
         "played_at":1760834659716
     },
     {
-        "track_name":"Sienna",
-        "artist_name":"The Mar\u00edas",
-        "played_at":1760834659716
-    },
-    {
         "track_name":"Manchild",
         "artist_name":"Sabrina Carpenter",
         "played_at":1760834872598
-    },
-    {
-        "track_name":"Manchild",
-        "artist_name":"Sabrina Carpenter",
-        "played_at":1760834872598
-    },
-    {
-        "track_name":"That\u2019s So True",
-        "artist_name":"Gracie Abrams",
-        "played_at":1760835040853
     },
     {
         "track_name":"That\u2019s So True",
@@ -215,24 +140,9 @@
         "played_at":1760835163296
     },
     {
-        "track_name":"NOW OR NEVER",
-        "artist_name":"Tkandz",
-        "played_at":1760835163296
-    },
-    {
         "track_name":"When Did You Get Hot?",
         "artist_name":"Sabrina Carpenter",
         "played_at":1760835310032
-    },
-    {
-        "track_name":"When Did You Get Hot?",
-        "artist_name":"Sabrina Carpenter",
-        "played_at":1760835310032
-    },
-    {
-        "track_name":"Just Keep Watching (From F1\u00ae The Movie)",
-        "artist_name":"Tate McRae",
-        "played_at":1760835452633
     },
     {
         "track_name":"Just Keep Watching (From F1\u00ae The Movie)",
@@ -245,16 +155,6 @@
         "played_at":1760835637449
     },
     {
-        "track_name":"What I Want (feat. Tate McRae)",
-        "artist_name":"Morgan Wallen",
-        "played_at":1760835637449
-    },
-    {
-        "track_name":"TU VAS SIN (fav)",
-        "artist_name":"Rels B",
-        "played_at":1760856769476
-    },
-    {
         "track_name":"TU VAS SIN (fav)",
         "artist_name":"Rels B",
         "played_at":1760856769476
@@ -265,24 +165,9 @@
         "played_at":1760856769586
     },
     {
-        "track_name":"Eternity",
-        "artist_name":"Alex Warren",
-        "played_at":1760856769586
-    },
-    {
         "track_name":"WHERE IS MY HUSBAND!",
         "artist_name":"RAYE",
         "played_at":1760856769604
-    },
-    {
-        "track_name":"WHERE IS MY HUSBAND!",
-        "artist_name":"RAYE",
-        "played_at":1760856769604
-    },
-    {
-        "track_name":"luther (with sza)",
-        "artist_name":"Kendrick Lamar",
-        "played_at":1760856769626
     },
     {
         "track_name":"luther (with sza)",
@@ -445,9 +330,24 @@
         "played_at":1760859998168
     },
     {
+        "track_name":"Die With A Smile",
+        "artist_name":"Lady Gaga",
+        "played_at":1760859998168
+    },
+    {
         "track_name":"Opalite",
         "artist_name":"Taylor Swift",
         "played_at":1760860234465
+    },
+    {
+        "track_name":"Opalite",
+        "artist_name":"Taylor Swift",
+        "played_at":1760860234465
+    },
+    {
+        "track_name":"Show Me Love",
+        "artist_name":"WizTheMc",
+        "played_at":1760860527334
     },
     {
         "track_name":"Show Me Love",
@@ -460,9 +360,24 @@
         "played_at":1760860693712
     },
     {
+        "track_name":"Mystical Magical",
+        "artist_name":"Benson Boone",
+        "played_at":1760860693712
+    },
+    {
         "track_name":"YUKON",
         "artist_name":"Justin Bieber",
         "played_at":1760860858487
+    },
+    {
+        "track_name":"YUKON",
+        "artist_name":"Justin Bieber",
+        "played_at":1760860858487
+    },
+    {
+        "track_name":"No Broke Boys",
+        "artist_name":"Disco Lines",
+        "played_at":1760861051927
     },
     {
         "track_name":"No Broke Boys",
@@ -475,9 +390,24 @@
         "played_at":1760861277323
     },
     {
+        "track_name":"The Subway",
+        "artist_name":"Chappell Roan",
+        "played_at":1760861277323
+    },
+    {
         "track_name":"Timeless (feat Playboi Carti)",
         "artist_name":"The Weeknd",
         "played_at":1760861532805
+    },
+    {
+        "track_name":"Timeless (feat Playboi Carti)",
+        "artist_name":"The Weeknd",
+        "played_at":1760861532805
+    },
+    {
+        "track_name":"DAISIES",
+        "artist_name":"Justin Bieber",
+        "played_at":1760861709053
     },
     {
         "track_name":"DAISIES",
@@ -490,6 +420,16 @@
         "played_at":1760861937689
     },
     {
+        "track_name":"The Dead Dance",
+        "artist_name":"Lady Gaga",
+        "played_at":1760861937689
+    },
+    {
+        "track_name":"I Say a Little Prayer",
+        "artist_name":"Aretha Franklin",
+        "played_at":1760867961015
+    },
+    {
         "track_name":"I Say a Little Prayer",
         "artist_name":"Aretha Franklin",
         "played_at":1760867961015
@@ -498,5 +438,125 @@
         "track_name":"Knockin' On Heaven's Door",
         "artist_name":"Bob Dylan",
         "played_at":1760868078881
+    },
+    {
+        "track_name":"Knockin' On Heaven's Door",
+        "artist_name":"Bob Dylan",
+        "played_at":1760868078881
+    },
+    {
+        "track_name":"What's Going On",
+        "artist_name":"Marvin Gaye",
+        "played_at":1760868319012
+    },
+    {
+        "track_name":"Move On Up",
+        "artist_name":"Curtis Mayfield",
+        "played_at":1760868499698
+    },
+    {
+        "track_name":"More Than A Woman",
+        "artist_name":"Bee Gees",
+        "played_at":1760868679199
+    },
+    {
+        "track_name":"Ventura Highway",
+        "artist_name":"America",
+        "played_at":1760868889014
+    },
+    {
+        "track_name":"Young Hearts Run Free",
+        "artist_name":"Candi Staton",
+        "played_at":1760869227356
+    },
+    {
+        "track_name":"Can't Get Enough Of Your Love, Babe",
+        "artist_name":"Barry White",
+        "played_at":1760869430007
+    },
+    {
+        "track_name":"Georgy Porgy",
+        "artist_name":"TOTO",
+        "played_at":1760869679069
+    },
+    {
+        "track_name":"Tiny Dancer",
+        "artist_name":"Elton John",
+        "played_at":1760870059401
+    },
+    {
+        "track_name":"Easier Said Than Done",
+        "artist_name":"Thee Sacred Souls",
+        "played_at":1760870240318
+    },
+    {
+        "track_name":"Don't Dream It's Over",
+        "artist_name":"Crowded House",
+        "played_at":1760870483391
+    },
+    {
+        "track_name":"Right Back Where We Started From",
+        "artist_name":"Maxine Nightingale",
+        "played_at":1760870658992
+    },
+    {
+        "track_name":"Never Too Much",
+        "artist_name":"Luther Vandross",
+        "played_at":1760870899276
+    },
+    {
+        "track_name":"Valerie - Live At BBC Radio 1 Live Lounge, London \/ 2007",
+        "artist_name":"Amy Winehouse",
+        "played_at":1760871109088
+    },
+    {
+        "track_name":"Everywhere - 2017 Remaster",
+        "artist_name":"Fleetwood Mac",
+        "played_at":1760871349031
+    },
+    {
+        "track_name":"Changes",
+        "artist_name":"Charles Bradley",
+        "played_at":1760871679165
+    },
+    {
+        "track_name":"One of These Nights - 2013 Remaster",
+        "artist_name":"Eagles",
+        "played_at":1760871979286
+    },
+    {
+        "track_name":"By Your Side",
+        "artist_name":"Sade",
+        "played_at":1760872249246
+    },
+    {
+        "track_name":"Bring It On Home to Me",
+        "artist_name":"Sam Cooke",
+        "played_at":1760872399214
+    },
+    {
+        "track_name":"I Want You",
+        "artist_name":"Marvin Gaye",
+        "played_at":1760872669090
+    },
+    {
+        "track_name":"Give Me the Night",
+        "artist_name":"George Benson",
+        "played_at":1760872969494
+    },
+    {
+        "track_name":"My Girl",
+        "artist_name":"The Temptations",
+        "played_at":1760873149379
+    },
+    {
+        "track_name":"The Sweetest Taboo",
+        "artist_name":"Sade",
+        "played_at":1760873419217
+    },
+    {
+        "track_name":"Get Down On It",
+        "artist_name":"Kool & The Gang",
+        "played_at":1760873719132
     }
 ]
