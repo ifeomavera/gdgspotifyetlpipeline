@@ -42,15 +42,19 @@ for item in recent_tracks['items']:
         'played_at': played_at
     })
 
+# Combine historical tracks with recent tracks, ensuring no duplicates based on 'played_at' timestamp to maintain uniqueness.
 tracks_ls.extend(recent_tracks_ls)
 unique_tracks = {track['played_at']: track for track in tracks_ls}.values()
 
+# Convert to DataFrame and save to JSON files and make sure 'played_at' is in datetime format and sorted.
 df = pd.DataFrame(recent_tracks_ls)
 track_df = pd.DataFrame(unique_tracks)
 track_df['played_at'] = pd.to_datetime(track_df['played_at'], utc=True)
 track_df.sort_values(by ='played_at', inplace=True)
 
+# Save the recent tracks and all unique tracks to JSON files.
 df.to_json("recent_tracks.json", orient="records", indent=4)
 track_df.to_json("all_recent_tracks.json", orient="records", indent=4)
 
+#An optional print statement to indicate that the pipeline has been executed.
 print("Played Pipeline executed!")
